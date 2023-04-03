@@ -1,0 +1,11 @@
+2023-04-03 02:35:13.027769 - Initialized conversion of CBT775
+2023-04-03 02:35:13.112096 - Received CBT.V504.FILE775.PDS from FILE775.XMI 
+2023-04-03 02:35:13.115031 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE775.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:35:13.116127 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE775.PDS, moved to PDS/$$NOTE1
+2023-04-03 02:35:13.117235 - Found $INSNOTE.txt (text/plain) in CBT.V504.FILE775.PDS, moved to PDS/$INSNOTE
+2023-04-03 02:35:13.118370 - Found $PDSLOAD.jcl (text/plain) in CBT.V504.FILE775.PDS, moved to PDS/$PDSLOAD
+2023-04-03 02:35:13.119483 - Found @FILE775.txt (text/plain) in CBT.V504.FILE775.PDS, moved to PDS/@FILE775
+2023-04-03 02:35:13.120509 - Found COPYBOOK.txt (text/plain) in CBT.V504.FILE775.PDS, moved to PDS/COPYBOOK
+2023-04-03 02:35:13.126849 - Found PDSLOAD.xmi (application/xmit) in CBT.V504.FILE775.PDS
+2023-04-03 02:35:13.135269   - Received RECFM=U data, stored XMIT file as CBT775/PDSLOAD.xmi
+2023-04-03 02:35:13.136754 - Found SOURCE.txt (text/plain) in CBT.V504.FILE775.PDS, moved to PDS/SOURCE
