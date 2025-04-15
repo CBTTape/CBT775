@@ -1,11 +1,11 @@
-2025-04-13 22:44:11.791853 - Received CBT.V508.FILE775.PDS from FILE775.XMI 
-2025-04-13 22:44:11.792942 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE775.PDS, moved to PDS/$$$#DATE
-2025-04-13 22:44:11.793042 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE775.PDS, moved to PDS/$$NOTE1
-2025-04-13 22:44:11.793124 - Found $INSNOTE.txt (text/plain) in CBT.V508.FILE775.PDS, moved to PDS/$INSNOTE
-2025-04-13 22:44:11.793202 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE775.PDS, moved to PDS/$PDSLOAD
-2025-04-13 22:44:11.793280 - Found @FILE775.txt (text/plain) in CBT.V508.FILE775.PDS, moved to PDS/@FILE775
-2025-04-13 22:44:11.793376 - Found COPYBOOK.txt (text/plain) in CBT.V508.FILE775.PDS, moved to PDS/COPYBOOK
-2025-04-13 22:44:11.793462 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE775.PDS, moved to PDS/PDSLOAD.xmi
-2025-04-13 22:44:11.801086 - Received WSBG.LOAD from PDSLOAD.xmi 
-2025-04-13 22:44:11.801506 - Found PDSLOAD.bin (application/octet-stream) in WSBG.LOAD, moved to PDSLOAD/PDSLOAD
-2025-04-13 22:44:11.801773 - Found SOURCE.txt (text/plain) in CBT.V508.FILE775.PDS, moved to PDS/SOURCE
+2025-04-15 05:30:21.069155 - Received CBT.V508.FILE775.PDS from FILE775.XMI 
+2025-04-15 05:30:21.070161 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE775.PDS, moved to PDS/$$$#DATE
+2025-04-15 05:30:21.070585 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE775.PDS, moved to PDS/$$NOTE1
+2025-04-15 05:30:21.070753 - Found $INSNOTE.txt (text/plain) in CBT.V508.FILE775.PDS, moved to PDS/$INSNOTE
+2025-04-15 05:30:21.070930 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE775.PDS, moved to PDS/$PDSLOAD
+2025-04-15 05:30:21.071229 - Found @FILE775.txt (text/plain) in CBT.V508.FILE775.PDS, moved to PDS/@FILE775
+2025-04-15 05:30:21.071638 - Found COPYBOOK.txt (text/plain) in CBT.V508.FILE775.PDS, moved to PDS/COPYBOOK
+2025-04-15 05:30:21.071855 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE775.PDS, moved to PDS/PDSLOAD.xmi
+2025-04-15 05:30:21.077290 - Received WSBG.LOAD from PDSLOAD.xmi 
+2025-04-15 05:30:21.077934 - Found PDSLOAD.bin (application/octet-stream) in WSBG.LOAD, moved to PDSLOAD/PDSLOAD
+2025-04-15 05:30:21.079161 - Found SOURCE.txt (text/plain) in CBT.V508.FILE775.PDS, moved to PDS/SOURCE
